@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 테마변경
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whalien207&show_icons=true&theme=flag-india)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whalien207&layout=compact)
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whalien207&show_icons=true&theme=flag-india)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whalien207&layout=compact)
+</div>
